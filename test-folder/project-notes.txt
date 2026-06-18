@@ -1,1 +1,4 @@
-exercise
+Project: Data Pipeline v1
+Owner: Your Name
+Status: In Progress
+Notes: Added ingestion for customer data source.
