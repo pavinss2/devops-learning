@@ -267,11 +267,7 @@ git branch -d feature/my-new-feature
 A conflict happens when two branches have changed the same part of the same file. Git will mark the conflict in the file like this:
 
 ```
-<<<<<<< HEAD
-Project owner: Alice
-=======
 Project owner: Bob
->>>>>>> feature/update-owner
 ```
 
 To resolve:
